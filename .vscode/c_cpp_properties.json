@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-undefined",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "compilerPath": "C:\\Program Files\\Haskell Platform\\8.6.5\\mingw\\bin\\gcc.exe",
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "intelliSenseMode": "macos-clang-x86",
+      "compilerArgs": [
+        "-Wall",
+        "-Wextra",
+        "-Wpedantic"
+      ]
+    }
+  ],
+  "version": 4
+}
