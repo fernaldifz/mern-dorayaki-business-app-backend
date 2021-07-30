@@ -47,3 +47,6 @@ Berikut merupakan endpoint toko dorayaki yang telah didefinisikan:
 - ```/tokodorayaki/:id``` GET: Melakukan return terhadap item toko dorayaki berdasarkan id.
 - ```/tokodorayaki/:id``` DELETE: Menghapus item toko dorayaki berdasarkan id.
 - ```/tokodorayaki/update/:id``` POST: Melakukan update terhadap suatu item toko dorayaki berdasarkan id
+
+## Menggunakan Aplikasi
+Anda dapat melihat panduan cara menggunakan aplikasi melalui [link](https://github.com/fernaldifz/mern-dorayaki-business-app-frontend/blob/master/README.md#menggunakan-aplikasi) ini.
