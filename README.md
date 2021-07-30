@@ -17,14 +17,14 @@ tidak keluar di CLI Anda, dapat melakukan pengaturan DNS pada koneksi internet A
 Kemudian, Anda dapat mengakses ```http://localhost:3000/``` untuk menjalankan aplikasi.
 
 ## Model Dorayaki
-Item dorayaki terdiri dari:
+Model dorayaki terdiri dari:
 - rasa (string)
 - deskripsi (string)
 - gambar (string, sebagai path ke image)
 - harga (number)
 
 ## Model Toko Dorayaki
-Item toko dorayaki terdiri dari:
+Model toko dorayaki terdiri dari:
 - nama (string)
 - jalan (string)
 - kecamatan (string)
